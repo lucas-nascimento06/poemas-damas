@@ -1,25 +1,105 @@
 {
   "frases": [
-    { "id": 1, "frase": "Mas o que quer dizer este poema? - perguntou-me alarmada a boa senhora. E o que quer dizer uma nuvem? - respondi triunfante. Uma nuvem - disse ela - umas vezes quer dizer chuva, outras vezes bom tempo...", "autor": "Desconhecido" },
-    { "id": 2, "frase": "Assim eu quereria o meu último poema.\nQue fosse terno dizendo as coisas mais simples e menos intencionais\nQue fosse ardente como um soluço sem lágrimas\nQue tivesse a beleza das flores quase sem perfume\nA pureza da chama em que se consomem os diamantes mais límpidos\nA paixão dos suicidas que se matam sem explicação.", "autor": "Desconhecido" },
-    { "id": 3, "frase": "Sempre que chove\nTudo faz tanto tempo...\nE qualquer poema que acaso eu escreva\nVem sempre datado de 1779!", "autor": "Desconhecido" },
-    { "id": 4, "frase": "Quando nasci, um anjo torto\ndesses que vivem na sombra\ndisse: Vai, Carlos! ser gauche na vida.\n\nAs casas espiam os homens\nque correm atrás de mulheres.\nA tarde talvez fosse azul,\nnão houvesse tantos desejos.\n\nO bonde passa cheio de pernas:\npernas brancas pretas amarelas.\nPara que tanta perna, meu Deus, pergunta meu coração.\nPorém meus olhos\nnão perguntam nada.\n\nO homem atrás do bigode\né sério, simples e forte.\nQuase não conversa.\nTem poucos, raros amigos\no homem atrás dos óculos e do bigode.\n\nMeu Deus, por que me abandonaste\nse sabias que eu não era Deus,\nse sabias que eu era fraco.\n\nMundo mundo vasto mundo\nse eu me chamasse Raimundo\nseria uma rima, não seria uma solução.\nMundo mundo vasto mundo,\nmais vasto é meu coração.\n\nEu não devia te dizer\nmas essa lua\nmas esse conhaque\nbotam a gente comovido como o diabo.", "autor": "Carlos Drummond de Andrade" },
-    { "id": 5, "frase": "Ó minha amada\nQue olhos os teus\nSão cais noturnos\nCheios de adeus\nSão docas mansas\nTrilhando luzes\nQue brilham longe\nLonge nos breus...\n\nÓ minha amada\nQue olhos os teus\nQuanto mistério\nNos olhos teus\nQuantos saveiros\nQuantos navios\nQuantos naufrágios\nNos olhos teus...\n\nÓ minha amada\nQue olhos os teus\nSe Deus houvera\nFizera-os Deus\nPois não os fizera\nQuem não soubera\nQue há muitas eras\nNos olhos teus.\n\nAh, minha amada\nDe olhos ateus\nCria a esperança\nNos olhos meus\nDe verem um dia\nO olhar mendigo\nDa poesia\nNos olhos teus.", "autor": "Vinícius de Moraes" },
-    { "id": 6, "frase": "Quando a luz dos olhos meus\nE a luz dos olhos teus\nResolvem se encontrar\nAi que bom que isso é meu Deus\nQue frio que me dá o encontro desse olhar\nMas se a luz dos olhos teus\nResiste aos olhos meus só p'ra me provocar\nMeu amor, juro por Deus me sinto incendiar\nMeu amor, juro por Deus\nQue a luz dos olhos meus já não pode esperar\nQuero a luz dos olhos meus\nNa luz dos olhos teus sem mais lará-lará\nPela luz dos olhos teus\nEu acho meu amor que só se pode achar\nQue a luz dos olhos meus precisa se casar.", "autor": "Vinícius de Moraes" },
-    { "id": 7, "frase": "Já chorei vendo fotos e ouvindo música;\nJá liguei só para ouvir uma voz;\nMe apaixonei por um sorriso;\nJá pensei que fosse morrer de saudade;\nE tive medo de perder alguém especial... (e acabei perdendo)\nJá pulei e gritei de tanta felicidade;\nJá vivi de amor e fiz muitas juras eternas...\nQuebrei a cara muitas vezes!\nJá abracei para proteger;\nJá dei risadas quando não podia;\nJá fiz amigos eternos;\nAmei e fui amado;\nMas também já fui rejeitado;\nFui amado e não amei...", "autor": "Augusto Branco" },
-    { "id": 8, "frase": "Este é um poema de amor\ntão meigo, tão terno, tão teu...\nÉ uma oferenda aos teus momentos\nde luta e de brisa e de céu...\nE eu,\nquero te servir a poesia\nnuma concha azul do mar\nou numa cesta de flores do campo.\nTalvez tu possas entender o meu amor.\nMas se isso não acontecer,\nnão importa.\nJá está declarado e estampado\nnas linhas e entrelinhas\ndeste pequeno poema,\no verso;\no tão famoso e inesperado verso que\nte deixará pasmo, surpreso, perplexo...\neu te amo, perdoa-me, eu te amo...", "autor": "Cora Coralina" },
-    { "id": 9, "frase": "Todos esses que aí estão\nAtravancando meu caminho,\nEles passarão...\nEu passarinho!", "autor": "Mario Quintana" },
-    { "id": 10, "frase": "Não direi:\nQue o silêncio me sufoca e amordaça.\nCalado estou, calado ficarei,\nPois que a língua que falo é doutra raça.\n\nPalavras consumidas se acumulam,\nSe represam, cisterna de águas mortas,\nÁcidas mágoas em limos transformadas,\nVasa de fundo em que há raízes tortas.\n\nNão direi:\nQue nem sequer o esforço de as dizer merecem,\nPalavras que não digam quanto sei\nNeste retiro em que me não conhecem.\n\nNem só lodos se arrastam, nem só lamas,\nNem só animais boiam, mortos, medos,\nTúrgidos frutos em cachos se entrelaçam\nNo negro poço de onde sobem dedos.\n\nSó direi,\nCrispadamente recolhido e mudo,\nQue quem se cala quanto me calei\nNão poderá morrer sem dizer tudo.", "autor": "Desconhecido" },
-    { "id": 11, "frase": "Quem faz um poema abre uma janela.\nRespira, tu que estás numa cela abafada,\nesse ar que entra por ela.\nPor isso é que os poemas têm ritmo\n– para que possas profundamente respirar.\n\nQuem faz um poema salva um afogado.", "autor": "Desconhecido" },
-    { "id": 12, "frase": "Meu irmão branco...\nQuando eu nasci, eu era negro\nQuando eu cresci, eu era negro\nQuando eu vou ao sol, eu sou negro\nQuando eu estou com frio, eu sou negro\nQuando eu estou com medo, eu sou negro\nQuando eu estou doente, eu sou negro\nQuando eu morrer, eu serei negro\n\nE você homem branco...\nQuando você nasceu, era rosa\nQuando você cresceu, era branco.\nQuando você vai ao sol, fica vermelho.\nQuando você fica com frio, fica roxo.\nQuando você está com medo, fica branco.\nQuando você fica doente, fica verde.\nQuando você morrer, ficará cinza.\nDepois de tudo isso, você ainda tem o topete de me chamar de homem de cor?", "autor": "Desconhecido" },
-    { "id": 13, "frase": "Por que Deus permite\nque as mães vão-se embora?\nMãe não tem limite,\né tempo sem hora,\nluz que não apaga\nquando sopra o vento\ne chuva desaba,\nveludo escondido\nna pele enrugada,\nágua pura, ar puro,\npuro pensamento.\nMorrer acontece\ncom o que é breve e passa\nsem deixar vestígio.\nMãe, na sua graça,\né eternidade.\nPor que Deus se lembra\n- mistério profundo -\nde tirá-la um dia?\nFosse eu Rei do Mundo,\nbaixava uma lei:\nMãe não morre nunca,\nmãe ficará sempre\njunto de seu filho\ne ele, velho embora,\nserá pequenino\nfeito grão de milho.", "autor": "Desconhecido" },
-    { "id": 14, "frase": "O poema\nessa estranha máscara\nmais verdadeira do que a própria face...", "autor": "Desconhecido" },
-    { "id": 15, "frase": "E nunca me perguntes o assunto de um poema: um poema sempre fala de outra coisa.", "autor": "Desconhecido" },
-    { "id": 16, "frase": "Um bom poema é como uma cerveja gelada\nquando você está mais a fim,\num bom poema é um sanduíche de presunto,\nquando você está faminto,\num bom poema é uma arma quando\nos bandidos te cercam,\num bom poema pode fazer a morte\nderreter feito manteiga,\num bom poema pode quase tudo,\nisso sem dizer que\num bom poema sabe quando\nparar.", "autor": "Desconhecido" },
-    { "id": 17, "frase": "Que a força do medo que tenho\nNão me impeça de ver o que anseio;\nQue a morte de tudo em que acredito\nNão me tape os ouvidos e a boca;\nPorque metade de mim é o que eu grito,\nMas a outra metade é silêncio...\n\nQue a música que eu ouço ao longe\nSeja linda, ainda que tristeza;\nQue a mulher que eu amo seja pra sempre amada\nMesmo que distante;\nPorque metade de mim é partida\nMas a outra metade é saudade...\n\nQue as palavras que eu falo\nNão sejam ouvidas como prece\nE nem repetidas com fervor,\nApenas respeitadas como a única coisa que resta\nA um homem inundado de sentimentos;\nPorque metade de mim é o que ouço\nMas a outra metade é o que calo...\n\nE que a minha loucura seja perdoada\nPorque metade de mim é amor\nE a outra metade... também.", "autor": "Desconhecido" },
-    { "id": 18, "frase": "Vamos fazer um poema\nou qualquer outra besteira.\nFitar por exemplo uma estrela\npor muito tempo, muito tempo\ne dar um suspiro fundo\nou qualquer outra besteira.", "autor": "Desconhecido" },
-    { "id": 19, "frase": "Não te amo mais.\nEstarei mentindo dizendo que\nAinda te quero como sempre quis.\nTenho certeza que\nNada foi em vão.\nSinto dentro de mim que\nVocê não significa nada.\nSinto cada vez mais que\nJá te esqueci!\nE jamais usarei a frase\nEu te amo!\nSinto, mas tenho que dizer a verdade\nÉ tarde demais...\n\n(Agora leia de baixo para cima)", "autor": "Desconhecido" },
-    { "id": 20, "frase": "Um poema como um gole d'água bebido no escuro.\nComo um pobre animal palpitando ferido.\nTriste.\nSolitário.\nÚnico.\nFerido de mortal beleza.", "autor": "Desconhecido" }
+    {
+      "id": 1,
+      "frase": "Mas o que quer dizer este poema? - perguntou-me alarmada a boa senhora. E o que quer dizer uma nuvem? - respondi triunfante. Uma nuvem - disse ela - umas vezes quer dizer chuva, outras vezes bom tempo...",
+      "autor": "Desconhecido"
+    },
+    {
+      "id": 2,
+      "frase": "Assim eu quereria o meu último poema.\nQue fosse terno dizendo as coisas mais simples e menos intencionais\nQue fosse ardente como um soluço sem lágrimas\nQue tivesse a beleza das flores quase sem perfume\nA pureza da chama em que se consomem os diamantes mais límpidos\nA paixão dos suicidas que se matam sem explicação.",
+      "autor": "Desconhecido"
+    },
+    {
+      "id": 3,
+      "frase": "Sempre que chove\nTudo faz tanto tempo...\nE qualquer poema que acaso eu escreva\nVem sempre datado de 1779!",
+      "autor": "Desconhecido"
+    },
+    {
+      "id": 4,
+      "frase": "Quando nasci, um anjo torto\ndesses que vivem na sombra\ndisse: Vai, Carlos! ser gauche na vida.\n\nAs casas espiam os homens\nque correm atrás de mulheres.\nA tarde talvez fosse azul,\nnão houvesse tantos desejos.\n\nO bonde passa cheio de pernas:\npernas brancas pretas amarelas.\nPara que tanta perna, meu Deus, pergunta meu coração.\nPorém meus olhos\nnão perguntam nada.\n\nO homem atrás do bigode\né sério, simples e forte.\nQuase não conversa.\nTem poucos, raros amigos\no homem atrás dos óculos e do bigode.\n\nMeu Deus, por que me abandonaste\nse sabias que eu não era Deus,\nse sabias que eu era fraco.\n\nMundo mundo vasto mundo\nse eu me chamasse Raimundo\nseria uma rima, não seria uma solução.\nMundo mundo vasto mundo,\nmais vasto é meu coração.\n\nEu não devia te dizer\nmas essa lua\nmas esse conhaque\nbotam a gente comovido como o diabo.",
+      "autor": "Carlos Drummond de Andrade"
+    },
+    {
+      "id": 5,
+      "frase": "Ó minha amada\nQue olhos os teus\nSão cais noturnos\nCheios de adeus\nSão docas mansas\nTrilhando luzes\nQue brilham longe\nLonge nos breus...\n\nÓ minha amada\nQue olhos os teus\nQuanto mistério\nNos olhos teus\nQuantos saveiros\nQuantos navios\nQuantos naufrágios\nNos olhos teus...\n\nÓ minha amada\nQue olhos os teus\nSe Deus houvera\nFizera-os Deus\nPois não os fizera\nQuem não soubera\nQue há muitas eras\nNos olhos teus.\n\nAh, minha amada\nDe olhos ateus\nCria a esperança\nNos olhos meus\nDe verem um dia\nO olhar mendigo\nDa poesia\nNos olhos teus.",
+      "autor": "Vinícius de Moraes"
+    },
+    {
+      "id": 6,
+      "frase": "Quando a luz dos olhos meus\nE a luz dos olhos teus\nResolvem se encontrar\nAi que bom que isso é meu Deus\nQue frio que me dá o encontro desse olhar\nMas se a luz dos olhos teus\nResiste aos olhos meus só p'ra me provocar\nMeu amor, juro por Deus me sinto incendiar\nMeu amor, juro por Deus\nQue a luz dos olhos meus já não pode esperar\nQuero a luz dos olhos meus\nNa luz dos olhos teus sem mais lará-lará\nPela luz dos olhos teus\nEu acho meu amor que só se pode achar\nQue a luz dos olhos meus precisa se casar.",
+      "autor": "Vinícius de Moraes"
+    },
+    {
+      "id": 7,
+      "frase": "Já chorei vendo fotos e ouvindo música;\nJá liguei só para ouvir uma voz;\nMe apaixonei por um sorriso;\nJá pensei que fosse morrer de saudade;\nE tive medo de perder alguém especial... (e acabei perdendo)\nJá pulei e gritei de tanta felicidade;\nJá vivi de amor e fiz muitas juras eternas...\nQuebrei a cara muitas vezes!\nJá abracei para proteger;\nJá dei risadas quando não podia;\nJá fiz amigos eternos;\nAmei e fui amado;\nMas também já fui rejeitado;\nFui amado e não amei...",
+      "autor": "Augusto Branco"
+    },
+    {
+      "id": 8,
+      "frase": "Este é um poema de amor\ntão meigo, tão terno, tão teu...\nÉ uma oferenda aos teus momentos\nde luta e de brisa e de céu...\nE eu,\nquero te servir a poesia\nnuma concha azul do mar\nou numa cesta de flores do campo.\nTalvez tu possas entender o meu amor.\nMas se isso não acontecer,\nnão importa.\nJá está declarado e estampado\nnas linhas e entrelinhas\ndeste pequeno poema,\no verso;\no tão famoso e inesperado verso que\nte deixará pasmo, surpreso, perplexo...\neu te amo, perdoa-me, eu te amo...",
+      "autor": "Cora Coralina"
+    },
+    {
+      "id": 9,
+      "frase": "Todos esses que aí estão\nAtravancando meu caminho,\nEles passarão...\nEu passarinho!",
+      "autor": "Mario Quintana"
+    },
+    {
+      "id": 10,
+      "frase": "Não direi:\nQue o silêncio me sufoca e amordaça.\nCalado estou, calado ficarei,\nPois que a língua que falo é doutra raça.\n\nPalavras consumidas se acumulam,\nSe represam, cisterna de águas mortas,\nÁcidas mágoas em limos transformadas,\nVasa de fundo em que há raízes tortas.\n\nNão direi:\nQue nem sequer o esforço de as dizer merecem,\nPalavras que não digam quanto sei\nNeste retiro em que me não conhecem.\n\nNem só lodos se arrastam, nem só lamas,\nNem só animais boiam, mortos, medos,\nTúrgidos frutos em cachos se entrelaçam\nNo negro poço de onde sobem dedos.\n\nSó direi,\nCrispadamente recolhido e mudo,\nQue quem se cala quanto me calei\nNão poderá morrer sem dizer tudo.",
+      "autor": "Desconhecido"
+    },
+    {
+      "id": 11,
+      "frase": "Quem faz um poema abre uma janela.\nRespira, tu que estás numa cela abafada,\nesse ar que entra por ela.\nPor isso é que os poemas têm ritmo\n– para que possas profundamente respirar.\n\nQuem faz um poema salva um afogado.",
+      "autor": "Desconhecido"
+    },
+    {
+      "id": 12,
+      "frase": "Meu irmão branco...\nQuando eu nasci, eu era negro\nQuando eu cresci, eu era negro\nQuando eu vou ao sol, eu sou negro\nQuando eu estou com frio, eu sou negro\nQuando eu estou com medo, eu sou negro\nQuando eu estou doente, eu sou negro\nQuando eu morrer, eu serei negro\n\nE você homem branco...\nQuando você nasceu, era rosa\nQuando você cresceu, era branco.\nQuando você vai ao sol, fica vermelho.\nQuando você fica com frio, fica roxo.\nQuando você está com medo, fica branco.\nQuando você fica doente, fica verde.\nQuando você morrer, ficará cinza.\nDepois de tudo isso, você ainda tem o topete de me chamar de homem de cor?",
+      "autor": "Desconhecido"
+    },
+    {
+      "id": 13,
+      "frase": "Por que Deus permite\nque as mães vão-se embora?\nMãe não tem limite,\né tempo sem hora,\nluz que não apaga\nquando sopra o vento\ne chuva desaba,\nveludo escondido\nna pele enrugada,\nágua pura, ar puro,\npuro pensamento.\nMorrer acontece\ncom o que é breve e passa\nsem deixar vestígio.\nMãe, na sua graça,\né eternidade.\nPor que Deus se lembra\n- mistério profundo -\nde tirá-la um dia?\nFosse eu Rei do Mundo,\nbaixava uma lei:\nMãe não morre nunca,\nmãe ficará sempre\njunto de seu filho\ne ele, velho embora,\nserá pequenino\nfeito grão de milho.",
+      "autor": "Desconhecido"
+    },
+    {
+      "id": 14,
+      "frase": "O poema\nessa estranha máscara\nmais verdadeira do que a própria face...",
+      "autor": "Desconhecido"
+    },
+    {
+      "id": 15,
+      "frase": "E nunca me perguntes o assunto de um poema: um poema sempre fala de outra coisa.",
+      "autor": "Desconhecido"
+    },
+    {
+      "id": 16,
+      "frase": "Um bom poema é como uma cerveja gelada\nquando você está mais a fim,\num bom poema é um sanduíche de presunto,\nquando você está faminto,\num bom poema é uma arma quando\nos bandidos te cercam,\num bom poema pode fazer a morte\nderreter feito manteiga,\num bom poema pode quase tudo,\nisso sem dizer que\num bom poema sabe quando\nparar.",
+      "autor": "Desconhecido"
+    },
+    {
+      "id": 17,
+      "frase": "Que a força do medo que tenho\nNão me impeça de ver o que anseio;\nQue a morte de tudo em que acredito\nNão me tape os ouvidos e a boca;\nPorque metade de mim é o que eu grito,\nMas a outra metade é silêncio...\n\nQue a música que eu ouço ao longe\nSeja linda, ainda que tristeza;\nQue a mulher que eu amo seja pra sempre amada\nMesmo que distante;\nPorque metade de mim é partida\nMas a outra metade é saudade...\n\nQue as palavras que eu falo\nNão sejam ouvidas como prece\nE nem repetidas com fervor,\nApenas respeitadas como a única coisa que resta\nA um homem inundado de sentimentos;\nPorque metade de mim é o que ouço\nMas a outra metade é o que calo...\n\nE que a minha loucura seja perdoada\nPorque metade de mim é amor\nE a outra metade... também.",
+      "autor": "Desconhecido"
+    },
+    {
+      "id": 18,
+      "frase": "Vamos fazer um poema\nou qualquer outra besteira.\nFitar por exemplo uma estrela\npor muito tempo, muito tempo\ne dar um suspiro fundo\nou qualquer outra besteira.",
+      "autor": "Desconhecido"
+    },
+    {
+      "id": 19,
+      "frase": "Não te amo mais.\nEstarei mentindo dizendo que\nAinda te quero como sempre quis.\nTenho certeza que\nNada foi em vão.\nSinto dentro de mim que\nVocê não significa nada.\nSinto cada vez mais que\nJá te esqueci!\nE jamais usarei a frase\nEu te amo!\nSinto, mas tenho que dizer a verdade\nÉ tarde demais...\n\n(Agora leia de baixo para cima)",
+      "autor": "Desconhecido"
+    },
+    {
+      "id": 20,
+      "frase": "Um poema como um gole d'água bebido no escuro.\nComo um pobre animal palpitando ferido.\nTriste.\nSolitário.\nÚnico.\nFerido de mortal beleza.",
+      "autor": "Desconhecido"
+    }
   ],
   "rodapes": [
     "👑 MENSAGEM PARA TODAS AS DAMAS 👑 💎⭐\n💫 Que sua força fale mais alto que qualquer desafio! ✨",
