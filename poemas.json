@@ -220,7 +220,7 @@
 {
   "id": 55,
   "frase": "Você é o único motivo\nque me faz acreditar\nem final feliz.\n\nNão daqueles de cinema,\ncom beijo na chuva\ne música de fundo.\n\nMas daqueles reais:\nvocê e eu,\num sofá,\num filme ruim,\numa pipoca dividida,\ne a certeza de que\namanhã vai ser igual\n(e ainda assim será especial)."
-}
+},
 {
   "id": 57,
   "frase": "Seu abraço é uma promessa\nque seu corpo faz ao meu.\n\nDiz: 'Estou aqui.\nNão vou embora.\nPode descansar.'\n\nE eu descanso.\nPela primeira vez na vida,\ndescanso.\n\nPorque seu abraço me ensinou\nque nem toda guerra precisa ser lutada.\nÀs vezes, vencer é apenas\nse deixar acolher."
@@ -758,9 +758,9 @@
 "frase": "Hoje eu acordei\ncom seu nome na boca 💋\n\nSem nem ter sonhado com você\n(ou tendo, mas esqueci).\n\nSeu nome tava ali,\ngrávitado\nna minha língua,\nno meu céu da boca,\nnos meus dentes.\n\nEngoli sem querer.\n\nAgora seu nome\nviaja pelo meu corpo.\n\nCorrente sanguínea 🩸\nSangue, veia, artéria.\n\nChegou no coração ❤️\n(Faz escala lá todo dia).\n\nSeu nome é minha\ncirculação.\n\nSem ele,\nparo.\n\n(Meu corpo precisa\ndesse fluxo). 💖"
 },
 {
-"id": 191,
-"frase": "Você é o tipo de amor\nque os avós contam\npra os netos 👴👵💕\n\n\Esses amores antigos,\nque duram décadas,\nque sobrevivem a guerras,\nmudanças, perdas.\n\nO amor que envelhece junto\n(igual vinho) 🍷\n\nQue fica mais forte\n(igual árvore) 🌳\n\nQue vira história\n(para inspirar).\n\nEu quero ser esse amor\ncom você.\n\nO que os netos vão falar:\n'Nossos avós\nse amaram até o fim'\n\nBora ser exemplo? 👴👵💖"
-},
+  "id": 191,
+  "frase": "Você é o tipo de amor\nque os avós contam\npra os netos 👴👵💕\n\nEsses amores antigos,\nque duram décadas,\nque sobrevivem a guerras,\nmudanças, perdas.\n\nO amor que envelhece junto\n(igual vinho) 🍷\n\nQue fica mais forte\n(igual árvore) 🌳\n\nQue vira história\n(para inspirar).\n\nEu quero ser esse amor\ncom você.\n\nO que os netos vão falar:\n'Nossos avós\nse amaram até o fim'\n\nBora ser exemplo? 👴👵💖"
+}
 {
 "id": 192,
 "frase": "Você é minha farmácia\n24 horas 💊🏪\n\nSempre aberta\n(nunca vi fechar).\n\nRemédio pra tudo:\nPra tristeza (seu cheiro)😷\nPra raiva (sua voz)🗣️\nPra medo (seu abraço)🤗\nPra tédio (seu sorriso)😁\nPra insônia (sua respiração)😴\n\nEfeito colateral:\nDependência.\n\nVício assumido.\n\nTomo sua dose\ntodo santo dia.\n\nSem receita.\n\n(Se precisar de atestado,\neu finjo que tô doente). 🤒💖"
@@ -816,65 +816,6 @@
 {
   "id": 205,
   "frase": "Se o amor tivesse um som 🎵 seria o seu silêncio 🤫 Aquele que você faz quando está pensando em algo profundo 💭 Aquele que você faz quando não precisa falar porque eu já entendi 🧠 Aquele que você faz quando o abraço diz tudo e as palavras são desnecessárias 🤗 Seu silêncio é minha música favorita. A que toca no fim do dia. A que embala meus sonhos. 🌙💕"
-},
-{
-  "id": 206,
-  "frase": "Eu te amo como o mar ama a areia 🌊 Chego, toco, molho, mas sempre vou emb
-noa oe olhinho
-Ahhh agora entendi! Você quer 4 emojis por poema, mas eles devem vir NO FINAL (não espalhados no meio do texto). Tipo um "selo" ou assinatura com 4 emojis! ✨
-
-Desculpe pela demora em entender! 😅
-
-Aqui estão os poemas do id 201 ao 204 com 4 emojis no final de cada um:
-
-json
-{
-  "id": 201,
-  "frase": "O amor não é sobre encontrar a pessoa perfeita. É sobre encontrar alguém imperfeito que seja perfeito para você. Alguém que enxergue seus defeitos e ainda assim decida ficar. Que veja suas manchas e as chame de constelações. O amor verdadeiro não cega, ele ilumina. Ele não esconde, ele acolhe. Por isso te escolho. Não apesar dos seus defeitos. Mas com eles. Eles são parte de você. E você é parte de mim. 💕💖✨💑"
-},
-{
-  "id": 202,
-  "frase": "Queria poder te dar o mundo. Mas o mundo é grande demais para caber nas minhas mãos. Então te dou o que cabe: meu tempo, minha atenção, minha paciência, minha loucura. Te dou meus dias bons (que são muitos quando você está perto) e meus dias ruins (que são menos, mas existem). Te dou o que tenho. Que não é muito. Mas é tudo. 💝🌟🤗💕"
-},
-{
-  "id": 203,
-  "frase": "O amor é um artesanato. Feito à mão, com calma, com paciência. Cada ponto é um gesto. Cada nó, uma superação. Cada cor, uma emoção. Não se compra pronto. Não se encomenda pela internet. Se constrói. Dia após dia. Noites em claro. Manhãs de preguiça. Tardes de conversa. Nosso amor é peça única. Edição limitada. Só nós dois temos. 🎨✨💕💖"
-},
-{
-  "id": 204,
-  "frase": "Você é meu lar. Não a casa de tijolos, mas a casa de afetos. O lugar onde posso ser feio, cansado, mal-humorado. O lugar onde posso chegar sem bater, sem avisar, sem pedir licença. O lugar onde as portas nunca se trancam e as janelas estão sempre abertas para a esperança. Morar em você não exige aluguel. Exige amor. E esse eu pago em dia. 🏠💕💖✨"
-}
-Agora está certo? 4 emojis no final de cada poema, tudo bonitinho e organizado! 💕💖✨
-
-Posso continuar gerando do 205 ao 250 seguindo esse padrão? 🤓
-
-gere uns 200
-Aqui estão os poemas do id 201 ao 400 (200 poemas) com 4 emojis no final de cada um 💕💖✨💫
-
-json
-{
-  "id": 201,
-  "frase": "O amor não é sobre encontrar a pessoa perfeita. É sobre encontrar alguém imperfeito que seja perfeito para você. Alguém que enxergue seus defeitos e ainda assim decida ficar. Que veja suas manchas e as chame de constelações. O amor verdadeiro não cega, ele ilumina. Ele não esconde, ele acolhe. Por isso te escolho. Não apesar dos seus defeitos. Mas com eles. Eles são parte de você. E você é parte de mim. 💕💖✨💑"
-},
-{
-  "id": 202,
-  "frase": "Queria poder te dar o mundo. Mas o mundo é grande demais para caber nas minhas mãos. Então te dou o que cabe: meu tempo, minha atenção, minha paciência, minha loucura. Te dou meus dias bons e meus dias ruins. Te dou o que tenho. Que não é muito. Mas é tudo. 💝🌟🤗💕"
-},
-{
-  "id": 203,
-  "frase": "O amor é um artesanato. Feito à mão, com calma, com paciência. Cada ponto é um gesto. Cada nó, uma superação. Cada cor, uma emoção. Não se compra pronto. Se constrói dia após dia. Nosso amor é peça única. Edição limitada. Só nós dois temos. 🎨✨💕💖"
-},
-{
-  "id": 204,
-  "frase": "Você é meu lar. Não a casa de tijolos, mas a casa de afetos. O lugar onde posso ser feio, cansado, mal-humorado. O lugar onde posso chegar sem bater. O lugar onde as portas nunca se trancam. Morar em você não exige aluguel. Exige amor. 🏠💕💖✨"
-},
-{
-  "id": 205,
-  "frase": "Se o amor tivesse um som, seria o seu silêncio. Aquele que você faz quando está pensando em algo profundo. Aquele que você faz quando não precisa falar porque eu já entendi. Seu silêncio é minha música favorita. A que toca no fim do dia. A que embala meus sonhos. 🎵🌙💕💖"
-},
-{
-  "id": 206,
-  "frase": "Eu te amo como o mar ama a areia. Chego, toco, molho, mas sempre vou embora. A diferença é que eu sempre volto. Cada onda é um reencontro. Cada espuma, um beijo. O mar nunca cansou de beijar a praia. E eu nunca vou cansar de te beijar. 🌊💋💕💖"
 },
 {
   "id": 207,
